@@ -35,7 +35,7 @@
   * Raw material
   * Representation of facts
   * Maybe numeric, text, etc.
-  * Is usually pricessed further
+  * Is usually processed further
   * Context free
 * Information
   * Processed data
