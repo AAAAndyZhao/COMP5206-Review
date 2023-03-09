@@ -81,9 +81,118 @@ Five forces that shape competition and strategy
 
 ## 10 Case Study
 
+ This part use Qantas Airline as an example:
+
+ * What are the potential new entrants?
+   * Foreign Carriers
+   * Regional carrier start-ups
+ * What is the bargaining power of suppliers?
+   * Aircraft manufacturers(e.g. Boeing, Aribus).
+   * Labour Unions
+   * Food service companies
+   * Fuel Companies
+   * Airports
+   * ...
+ * What is the bargaining power of buyers?
+   * Travel Agents
+   * Business Travelers
+   * Pleasure Travelers
+   * Cargo and Mail
+ * What are the substitute products of services?
+   * Alternate Travel Services
+     * Fast Trains 
+     * Boats
+   * Private Transportation
+   * Video conderencing
+ * What are the rivalries?
+
 ## 11 Use of IS to Combat Competitive Forces
 
-## 12 Porter’s Value Chain Model
+![L2-P1.png](picture/L2-P1.png)
 
-## 13 
+## 12 Porter’s Value Chain Model
+  
+* Firm Analysis
+  * Analyzes are the activities of a firm and identify how information systems can be used to develop a competitive advantage
+  * Strategy execution(**how to compete**)
+* Value Chain
+  * A sequence of activities(processes) through which the organization's inputs are transformed into more valuable outputs.
+
+![L2-P2.png](picture/L2-P2.png)
+
+## 13 IS and the Value Chain
+
+* The value chain provides a useful framework to perform high-level analysis of a firm from the perspective of competitive strategy
+* Draw a generic value chain for the firm and identify individual activities that add value
+* Evaluate the contribution of each activity to the value of the product/servcice
+
+Q: Can IS used to add value?
+A: IS can be used to revamp the value chain:
+
+* Reengineer core business processes, e.g., digitise the product or process, bypass the middleman
+* Concentrate on core competencies by establishing alliances with partners, e.g., use logistic company for transport
+
+## 14 IS and Platform Business
+
+- Platform is used to characterise product, services, firm or institutions that mediate transaction between two or more group of agents
+- A platform is a business model that creates value by facilitating exchanges between two or more interdependent groups, usually consumers and producers.
+  - Value is appreciated by interaction
+
+### A Digital Platform
+Video Creators --- Youtube.com --- Video Viewers
+
+Drivers --- Uber --- Riders
+
+![L2-P2.png](picture/L2-P3.png)
+
+
+## 15 The Move from Product to Platform
+
+* From internal optimisation to external interaction
+* From a focus on customer value to a focus on ecosystem value
+
+**Product**:
+|| - Value is created upstream
+|| - Customers are acquired
+|| - Products are designed to meet specifications
+V  - Value is given by consumption
+
+**Platform**:
+|| - Value is cocreated on the spot
+|| - Users can become customers
+|| - Products emerge through interaction
+V - Value is appreciated by interaction
+
+* Goal shifts from control, entry barriers, and differentiation to more creating and facilitating valuable market exchanges
+
+## 16 Competitive Threats for Platform Business
+
+* An established platform with superior network effects that uses its relationships with customers to enter your industry.
+* A competitors may target the customers who repeatedly purchase goods/ services from a business with a distinctive new offering that leverages network effects.
+
+
+## 17 Impact of Internet on industry structures
+
+* Dampens bargaining power of channels
+  * Internet provides companies with new, more direct avenues to customers
+* Boosts an industry's effciency in various ways
+  * expanding the overall size of market by improving its position relative to traditional substitutes
+
+Details:
+
+1. Increases buyer bargaining power 
+   1. internet provides buyers with easier access to information about products and services
+2. Reduces barriers to entry
+   1. mitigates the need for fixed investments such as established sales force and channels
+3. Create new substitutes
+   1. enables new approaches to meeting needs
+4. Intensifies rivalry among competitors
+   1. expands geographic reach
+
+* Reconfiguring of existing industries
+  * information and communciation intensive industries
+  * distance learning, catalog retailers
+* Impacts will vary on industries
+  * depends on existing industry structure
+  * can't draw general conclusions about the impact of the internet on long-term industry profitability
 
