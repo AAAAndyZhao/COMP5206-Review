@@ -105,20 +105,86 @@ Five forces that shape competition and strategy
    * Private Transportation
    * Video conderencing
  * What are the rivalries?
+   * Low-cost regional airlines (Jetstar Airways)
+   * Low-cost international airlines
+   * Airlines providing better services
 
 ## 11 Use of IS to Combat Competitive Forces
 
-![L2-P1.png](picture/L2-P1.png)
+|Competitive Force|Implication for Firm|Potential Use of Information Systems|
+|-----------------|--------------------|------------------------------------|
+|Rivals within your industry|Competition in price, product, distribution, service|Reduce cost, use the internet to increase service|
+|New entrants|Reduced prices and market share|Inventory control to manage excess capacity, Internet to differentiate products|
+|Customers' bargaining power|Reduced prices, demand for better quality and service|CRM to improve service, Computer-Aided Design/Computer-Aided Manufacturing (CAD/CAM)|
+|Suppliers' bargaining power|Increased costs and reduced quality|Use internet to work with new distant suppliers|
+|Threat of substitue products|Decreased market share, customer loss|Better assess customer needs, use CAD to design better products|
 
 ## 12 Porter’s Value Chain Model
   
 * Firm Analysis
-  * Analyzes are the activities of a firm and identify how information systems can be used to develop a competitive advantage
+  * Analyzes the activities of a firm and identify how information systems can be used to develop a competitive advantage
   * Strategy execution(**how to compete**)
 * Value Chain
   * A sequence of activities(processes) through which the organization's inputs are transformed into more valuable outputs.
 
 ![L2-P2.png](picture/L2-P2.png)
+
+### 12.1 Inbound Logistics
+
+* Activities
+  * Quality control
+  * receiving
+  * raw material control
+  * supply schedules
+* IS
+  * Automated warehousing systems
+
+### 12.2 Operations
+
+* Activities
+  * Manufacturing
+  * packaging
+  * production control
+  * quality control
+  * maintenance
+* IS
+  * Computer-controlled machining systems
+  * Computer-aided flexible manufacturing
+
+### 12.3 Outbound Logistics
+
+* Activities
+  * Finishing goods
+  * order handling
+  * dispatch
+  * delivery
+  * invoicing
+* IS
+  * Automated shipment
+  * Scheduling systems
+  * Online point of sale and order processing
+
+### 12.4 Marketing and sales
+
+* Activities
+  * Customer management
+  * Order taking
+  * Promotion
+  * Sales Analysis
+  * Market research
+* IS
+  * Computerized ordering systems
+  * targeted marketing
+
+### 12.5 Customer service
+
+* Activities
+  * Warranty
+  * Maintenance
+  * Education and training
+  * Upgrades
+* IS
+  * Customer relationship management system
 
 ## 13 IS and the Value Chain
 
@@ -145,23 +211,17 @@ Drivers --- Uber --- Riders
 
 ![L2-P2.png](picture/L2-P3.png)
 
-
 ## 15 The Move from Product to Platform
 
 * From internal optimisation to external interaction
 * From a focus on customer value to a focus on ecosystem value
 
-**Product**:
-|| - Value is created upstream
-|| - Customers are acquired
-|| - Products are designed to meet specifications
-V  - Value is given by consumption
-
-**Platform**:
-|| - Value is cocreated on the spot
-|| - Users can become customers
-|| - Products emerge through interaction
-V - Value is appreciated by interaction
+|Product|Platform|
+|-------|--------|
+|Value is created upstream|Value is co-created on the spot|
+|Customers are acquired|Users can become customers|
+|Products are designed to meet specifications|Products emerge through interaction|
+|Value is given by consumption|Value is appreciated by interaction|
 
 * Goal shifts from control, entry barriers, and differentiation to more creating and facilitating valuable market exchanges
 
@@ -170,29 +230,23 @@ V - Value is appreciated by interaction
 * An established platform with superior network effects that uses its relationships with customers to enter your industry.
 * A competitors may target the customers who repeatedly purchase goods/ services from a business with a distinctive new offering that leverages network effects.
 
-
 ## 17 Impact of Internet on industry structures
 
-* Dampens bargaining power of channels
+* **Dampens bargaining power of channels**
   * Internet provides companies with new, more direct avenues to customers
-* Boosts an industry's effciency in various ways
+* **Boosts an industry's effciency in various ways**
   * expanding the overall size of market by improving its position relative to traditional substitutes
-
-Details:
-
-1. Increases buyer bargaining power 
-   1. internet provides buyers with easier access to information about products and services
-2. Reduces barriers to entry
-   1. mitigates the need for fixed investments such as established sales force and channels
-3. Create new substitutes
-   1. enables new approaches to meeting needs
-4. Intensifies rivalry among competitors
-   1. expands geographic reach
-
-* Reconfiguring of existing industries
+* **Increases buyer bargaining power**
+  * internet provides buyers with easier access to information about products and services
+* **Reduces barriers to entry**
+  * mitigates the need for fixed investments such as established sales force and channels
+* **Create new substitutes**
+  * enables new approaches to meeting needs
+* **Intensifies rivalry among competitors**
+  * expands geographic reach
+* **Reconfiguring of existing industries**
   * information and communciation intensive industries
   * distance learning, catalog retailers
-* Impacts will vary on industries
+* **Impacts will vary on industries**
   * depends on existing industry structure
   * can't draw general conclusions about the impact of the internet on long-term industry profitability
-
