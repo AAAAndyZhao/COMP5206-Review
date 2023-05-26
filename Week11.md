@@ -96,3 +96,36 @@ Methods:
   - The high the percentage the better.
 - Break-Even Analysis
   - Determine the point at which the cumulative dollar value of the benefits equals the investment made.
+
+## 7. IS Development and Acquisition Decisions ##
+
+- How much computer code does the company want to write?
+  - Use a totally prewritten application (write no code)
+  - Customize a prewritten application (write some code)
+  - Customize an entire application (write all new code)
+- How will the company pay for the application?
+  - Prewritten applications: buy or lease
+  - Totally custom applications: internal funding
+- Where will the application run?
+  - Run the application on its own platform
+  - Run the application on someone else’s platform (e.g., SaaS vendor)
+- Where will the application originate?
+  - Prewritten applications: open source or proprietary
+  - Custom applications: in-house or outsource
+
+## 8. IS Development and Acquisition Strategy ##
+
+In-house development:
+
+- System Development Life Cycle(SDLC)
+  - A structured framework for developing new systems or changing existing systems.
+  - A set of activities used to build an information system.
+  - A set of techniques and tools to aid in the development process.
+  - A guide to help the project manager and team plan, schedule, and control the project.
+
+External Acquisition:
+
+- Off-the-shelf (proprietary) software
+- Open source software
+- Application Service Provider (ASP) and Software as a Service (SaaS)
+- Outsourcing
