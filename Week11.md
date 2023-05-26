@@ -430,5 +430,3 @@ Outsourcing:
 Off-shoring:
 
 - Relocation of business processes to lower-cost locations overseas.
-
-**Why Outsourcing?**
