@@ -430,3 +430,70 @@ Outsourcing:
 Off-shoring:
 
 - Relocation of business processes to lower-cost locations overseas.
+
+## 32. Why Outsourcing? ##
+
+- Cost and quality concerns
+  - Higher quality systems as a lower cost.
+- Problems in IS performance
+  - Lack of IS responsiveness
+  - Lack of IS expertise
+  - Lack of IS reliability
+- Supplier pressure
+  - Vendors are pushing outsourcing
+- Simplifying, Downsizing, and Reengineering
+  - Focus on only the “core competencies”
+- Financial Factors
+  - Strengthen the balance sheets by liquidating IT assets; use IT services more wisely
+- Organizational Culture
+  - External service provider often bring enough clout to streamline IS operations as needed
+- Internal Irritants
+  - Eliminate tension between end uses and the IS staff
+
+## 33. Material - ICT Procurement ##
+
+[ICT Procurement](https://www.dta.gov.au/help-and-advice/ict-procurement/ict-procurement-taskforce-report)
+
+The taskforce’s role was to:
+
+- Identify existing procurement barriers
+- Look for opportunities to streamline ICT procurement
+- Look for ways to make it easier for start-ups and small and medium businesses to compete for government ICT contracts
+
+**Learnings from the taskforce:**
+The Report of the ICT Procurement Taskforce made a range of diverse recommendations. Some of the key findings and recommendations include:
+
+1. **Developing ICT specific procurement principles:** The report highlighted the importance of tailored procurement principles for the ICT sector. This acknowledges the unique challenges and dynamics of ICT procurement.
+
+2. **Simplifying procurement practices:** The report recommended simplification of procurement practices to enhance understanding and minimize complexity, which can often be a barrier for smaller vendors.
+
+3. **Encouraging Innovation:** The taskforce suggested encouraging alternative solutions and innovative ideas. This could be done by asking the right questions about what success looks like and managing risk.
+
+4. **Outcome-focused procurement:** The report promoted focusing on qualitative outcomes rather than quantitative measures. This means that procurement should be based on what the agency needs to achieve, not just on specific deliverables.
+
+5. **Minimizing cybersecurity risks:** The taskforce recognized the potential threats in the ICT field and recommended strategies to minimize these risks.
+
+6. **Building strategic partnerships:** The report recommended building strategic partnerships with significant ICT vendor relationships, emphasizing the importance of long-term, collaborative relationships with vendors.
+
+7. **Contract management simplification:** The report recommended simplifying contract management strategies, allowing flexibility in the level of effort and involvement needed in a project.
+
+8. **Industry Collaboration:** Encouraging vendors to collaborate with SMEs, explaining expectations, and measuring collaboration success.
+
+9. **E-procurement:** Incorporating electronic contracting, like the digital marketplace, was also recommended.
+
+Additionally, the government announced a cap on IT contracts at a maximum value of $100 million or three years’ duration. This cap aims to prevent too much dependence on a single vendor and encourage a more diverse vendor ecosystem.
+
+The report also emphasized the importance of recognizing the risk of failure in contracts and incorporating a process that motivates early detection of risks with pre-agreed flexibility to change direction to mitigate and manage risks. This includes allowing for low-risk experimentation stages and using collaborative approaches to developmental tasks or stages.
+
+**Learing from Task Response**
+In response to the ICT Procurement Taskforce Report, the government outlined a number of key actions and strategies:
+
+1. **Annual Targets and Contract Caps**: The government announced that it would set annual targets for ICT procurement, including an annual cap for agencies on ICT contracts. This cap was set at a maximum value of $100 million or a duration of three years. The introduction of this cap is aimed at giving small and medium-sized businesses (SMBs) more opportunities to bid for smaller components of larger projects.
+
+2. **Increased Spending with SMBs**: The government is targeting an increase of 10 per cent of its annual $6.5 billion IT spend towards smaller operators. This is expected to provide exciting opportunities for SMEs and allow government agencies to bring in new and innovative services.
+
+3. **Reduction of IT Panels**: The government also announced a reduction in the number of IT panels to make it easier for smaller entities to supply services, thereby actively encouraging small innovators to offer their ideas.
+
+4. **Public Dashboard of ICT Projects and Spending**: The taskforce recommended the creation of a public dashboard for ICT projects and spending. However, the government chose to launch a dashboard that is only accessible to the government and its agencies.
+
+These actions reflect the government's commitment to address the barriers identified by the taskforce, such as devolved decision-making, a focus on compliance, fear of failure, and outdated practices. By implementing these measures, the government aims to streamline its ICT procurement processes, foster innovation, and create a more inclusive and competitive environment for businesses of all sizes.
