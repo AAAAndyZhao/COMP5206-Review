@@ -148,3 +148,178 @@ Three Steps:
 3. Comparing the probable costs of the asset’s being compromised with the costs of protecting that asset
 
 #### 1.7.2 Risk Mitigation ####
+
+Two Functions:
+
+1. Implementing controls to prevent identified threats from occuring
+2. Developing a means of recovery if the threat becomes a reality
+
+Three Strategies:
+
+1. Risk Acceptance
+   - Accept the potential risk, continue operating with no controls, and absorb any damages that occur
+2. Risk Limitation
+   - Limits the risk by implementing controls that minimize the impact of the threats
+3. Risk Transference
+   - Transfer the risk by using other means to compensate for the loss, such as by purchasing insurance
+
+#### 1.7.3 Controls Evaluation ####
+
+**Description:** Examines the costs of implementing adequate control measures against the value of those control measures
+
+**Defense-in-depth:**
+
+1. Employee multiple layers of controls to avoid a single point-of-failure
+2. Preventive controls
+   - To limit actions to those in accord with the organization’s security policy and to not allow undesired actions
+3. Detective controls
+4. Corrective controls
+   - To restore a system to its normal operations after a security incident has occurred
+
+**Time-based Model of Security:**
+
+Evaluate the effectiveness of an organization's security
+
+- P(t): Probability of a successful attack
+- D(t): Value of the asset being protected
+- C(t): Cost of protection
+- if P(t) > D(t) + C(t), then the organisation's security procedures are effective
+
+Example:
+XYZ Company evaluates its security procedures with the following outcomes:
+
+- Estimated time for intruder to successfully penetrate system = 22 minutes
+- Estimated time to detect an intrusion attempt and notify appropriate security staff = 15 minutes
+- Estimated time to analyze detected intrusion attempts and implement corrective actions = 6 minutes
+- **Are the security procedures of XYZ Company effective?**
+**Answer**: **No**, because P(t) > D(t) + C(t), where P(t) = 22 minutes, D(t) = 15 minutes, and C(t) = 6 minutes (22 > 15 + 6).
+
+### 1.8 Infromation Security Controls ###
+
+- Physical controls
+  - Prevent unauthorized individuals from gaining access to a company’s facilities
+  - Examples: Fences, locks, security guards, alarm systems, etc.
+- Access controls
+  - Restrict unauthorized individuals from using information resources and include:
+    - Authentication
+    - Authorization
+    - Access levels
+    - Access control lists
+    - Passwords
+    - Tokens
+    - Smart cards
+    - Biometric authentication
+- Communication controls
+  - Secure the movement of data across networks
+  - Examples: Firewalls, anti-malware systems, whitelisting, blacklisting, encryption, etc.
+
+#### 1.8.1 Access Controls ####
+
+- **Authorization:**
+  - A process that determines which actions, rights, or privileges the user has, based on his or her identity.
+- **Authentication**
+  - A process that determines the identity of the person requiring access.
+  - Factors:
+    - Something the user knows
+    - Something the user has
+    - Something that is part of the user
+    - Something the user does
+  - Two-factor authentication
+    - A process that requires two means of identification, one of which is typically a physical token, such as a card, and the other of which is typically something memorized, such as a password.
+  - CAPTCHA
+    - Completely Automated Public Turing test to tell Computers and Humans Apart.
+    - Test to **determine whether the user is human.**
+
+#### 1.8.2 Communication Controls ####
+
+Antivirus software
+
+- Software packages that attempt to identify and eliminate viruses and worms, and other malicious software
+
+Firewalls
+
+- A system (hardware, software, or both) that prevents a specific type of information from moving between untrusted networks (e.g., Internet) and private networks (e.g., Intranet)
+
+Blacklisting & Whitelisting
+
+- A process in which a company identifies certain IP addresses, Web sites, or keywords that are not allowed to appear on employees’ computers (blacklisting) or identifies a list of approved Web sites that can appear on employees’ computers (whitelisting)
+
+Employee monitoring systems
+
+- Systems that monitor employees’ computers, e-mail activities, and Internet surfing activities
+
+Encryption
+
+- Symmetric and asymmetric encryption
+- Digital signatures and certificates, and Certificate Authorities (CAs)
+- Secure Sockets Layer (SSL) and Transport Layer Security (TLS)
+- Virtual Private Networks (VPNs)
+
+#### 1.8.3 Encryption ###
+
+The process of converting an original message into a form that cannot be read by anyone except the intended receiver
+
+- Symmetric encryption
+  - The same key is used to encode and decode
+  - Examples: DES, AES, 3DES
+- Asymmetric encryption
+  - Two keys are used: a public key and a private key
+  - Examples: RSA, ECC
+  - Private Key is used to both encrypt and decrypt the data and is shared between the sender and receiver of encrypted data.
+  - Public Key is used to encrypt the data and is available to anyone who wants to send the sender a message.
+- Digital signatures
+  - A means of electronically signing a document with data that cannot be forged
+  - A digital signature is a mathematical scheme for demonstrating the authenticity of digital messages or documents.
+  - A valid digital signature gives a recipient reason to believe that the message was created by a known sender (authentication), that the sender cannot deny having sent the message (non-repudiation), and that the message was not altered in transit (integrity).
+- Digital certificates
+  - A data file that identifies individuals or organizations online and is comparable to a digital signature
+  - A digital certificate is an electronic "credit card" that establishes your credentials when doing business or other transactions on the Web.
+  - CA (Certificate Authority)
+    - A trusted third-party organization or company that issues digital certificates used to create digital signatures and public-private key pairs (e.g., VeriSign, Entrust, Thawte, etc.) and is comparable to a notary public in the physical world (e.g., a notary public verifies the identity of a person signing a document and then stamps the document with his or her seal of approval).
+    - A certificate authority (CA) is a trusted entity that issues electronic documents that verify a digital entity’s identity on the Internet.
+    - The electronic documents, which are called digital certificates, are an essential part of secure communication and play an important part in the public key infrastructure (PKI).
+
+
+### 1.9 Business Continuity Planning (BCP)/ IS Auditing ###
+
+Business continuity planning (Disaster recovery planning)
+
+- Identifies an organization's exposure to internal and external threats and provides guidance for effective prevention and recovery for the organization
+- Business continuity strategies
+  - Hot site
+    - A fully configured computer facility, with all the information resources and services, communications links, and physical plant operations, that duplicates a company’s computing resources and provides near-real-time recovery of IT operations
+  - Warm site
+    - A site that provides many of the same services and options of the hot site, but does not include the company’s applications
+  - Cold site
+    - A backup location that provide only rudimentary services and facilities (e.g., building with heating, air conditioning, and humidity control)
+- IS auditing
+  - An examination of information systems by internal or external auditors.
+
+### 1.10 Additional Resource ###
+
+Australia's cyber security watch room is monitoring threats 24/7. What's it like inside? | ABC News
+<https://www.youtube.com/watch?v=Ngv09DumPDM>
+
+Australian Cyber Security Centre
+<https://www.youtube.com/watch?v=jvoajglQi68>
+
+Australian Government Information Security Manual
+<https://www.cyber.gov.au/acsc/view-all-content/ism>
+
+Keypoints:
+
+1. The cyber security watch room is constantly monitoring for threats targeting Australia. The analysts there collect intelligence about everything from scam emails to malicious software.
+
+2. The COVID-19 pandemic has increased their workload, with cyber criminals launching phishing campaigns related to stimulus measures.
+
+3. A particular focus is on remote access trojans, which are tools that criminals use to gain access to systems.
+
+4. The strategies used by cyber criminals are sophisticated and constantly changing, so the analysts need to stay one step ahead.
+
+5. The watch room also has a table used to simulate how authorities might fight an urban cyber attack, showing how power grids and water services could be sabotaged.
+
+6. The Australian government plans to enhance the country's defensive capabilities online, including a $470 million investment for 500 new jobs at the Australian Signals Directorate, where the centre is located.
+
+7. The new employees could be part of teams doing data analytics, dissecting ransomware, or assisting industries like hospitals or banks to restore their tech systems.
+
+8. However, these new employees would need to pass the cyber security agency's rigorous background checks.
