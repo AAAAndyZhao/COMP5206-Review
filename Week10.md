@@ -297,9 +297,9 @@ pie
 
 ## 17. Case/Scenario Analysis - IoT and ERP Integration ##
 
-https://itbrief.com.au/story/australian-uptake-of-enterprise-iot-is-on-the-rise
+<https://itbrief.com.au/story/australian-uptake-of-enterprise-iot-is-on-the-rise>
 
-https://itbrief.com.au/story/australian-businesses-leading-the-way-for-iot
+<https://itbrief.com.au/story/australian-businesses-leading-the-way-for-iot>
 
 IFS Study: 84% of Industrial Companies Face Gap Between IoT and ERP
 ([prnewswire.com](https://www.prnewswire.com/news-releases/ifs-study-84-of-industrial-companies-face-gap-between-iot-and-erp-300526759.html))
@@ -335,7 +335,6 @@ Another gap is that many existing planning and maintenance systems may not be ro
 
 Finally, the data suggests a need for more IoT-enabled enterprise applications designed to put data from networks of connected devices into the context of the business.
 
-
 ## 18. Best Practices-Based Software ##
 
 Most enterprise system vendors build best practices into their applications:
@@ -359,3 +358,60 @@ BPM Steps:
 3. Understand and measure existing processes as a baseline
 4. Identify ways IS can be used for improvement
 5. Design and implement a prototype of the new processes
+
+- Business Process Reengineering(BPR)
+  - The fundamental rethinking and radical redesign of business processes to achieve dramatic improvements in critical, contemporary measures of performance, such as cost, quality, service, and speed.
+- Business Process Improvement (BPI)
+  - Less radical, less disruptive, more incremental than BPR.
+
+**Example:** Business Process Reengineering (BPR)
+
+- **The original process:**
+  - A sales representative called in with a request for financing. An operator in the central office wrote down the request.
+  - The request was then dispatched to credit department to check the customer’s credit status.
+  - The business practices department modified the standard loan covenant in response to the request.
+  - The pricing department determined the appropriate interest rate.
+  - The administration department turned all the information into a quote letter which was then delivered to the sales representative by FedEx.
+- **Problems with the original process**
+  - The entire process took 6 days on average (up to 2 weeks). Customers could be influenced by other computer vendor or simply called the deal off.
+  - When the sales representative called, no one could tell where the request was and when it could be done.
+- **Solution 1:**
+  - Install a control desk to answer the status of the request.
+  - The request was returned to the control desk after each step, logged the competition, and forwarded to the next step.
+    - Sophisticated queuing theory and linear programming used to balance workloads and staff.
+    - Performance standards were introduced for each department.
+- **Problems: Automating and improving the process**
+  - Process time got worse, even though each department achieved almost 100% compliance on its performance.
+  - The actual work only took 1.5 hours (90 minutes).
+  - The remaining time was wasted on handling the forms off from one department to the next.
+- **Solution 2: Reengineer the process**
+  - Replaced the specialists (credit checkers, pricers, etc.) with generalists (deal structurers) to process the entire request from beginning to end.
+  - Decision support systems were developed to guide deal structurers and provide rapid access to all key information.
+- **Results**
+  - Process time reduced by 90% (from 6 days to 4 hours).
+  - No increase in head count (even a small head count reduction).
+
+**BPR Challenges**:
+**What are the underlying costs for the implementation of the radical change?**
+
+- People need intensive training for their new skills and their styles (the ways in which they think and behave, their attitudes, what they believe is important about their work).
+
+**What are the implications of the radical change to the organization, especially the human issues?**
+
+- Organizations are communities of people and cannot be treated as machines.
+- People may resist the change and fear losing their jobs.
+- Inspirations and cultures may therefore be destroyed during reengineering.
+- Reengineering requires people to take more responsibilities and to learn and change constantly. These may contradict the majority people who seek for stability for their lives.
+
+**Even company provides intensive training, can people change their styles?**
+
+- People may feel uncomfortable to change the new styles.
+- They used to think the purpose of their work is to perform the same task over and over again.
+- The first concern now is creating value for the customer and taking responsibility for the performance of an entire process.
+
+**The Enabling Role of IT in BPR**:
+
+- IT (ERP) plays a crucial role in BPR and is an essential enabler
+  - IT is often misused to only computerize old tasks.
+- IT allows organizations to break conventional rules/assumptions of processes which may not be valid anymore.
+- IT should be used to implement the business processes, not to drive the processes.
